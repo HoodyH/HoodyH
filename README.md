@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="assets/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="simoneabnto.github.io/SimoneABNto/assets/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="assets/python.png" />
 <img align="left" alt="Django" width="26px" src="assets/django.png" />
 <img align="left" alt="JavaScript" width="26px" src="assets/javascript.png" />
