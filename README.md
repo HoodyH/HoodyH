@@ -22,7 +22,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/SimoneABNto/SimoneABNto/master/assets/visual-studio-code.png" />
+<img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/SimoneABNto/SimoneABNto/master/assets/pycharm.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/SimoneABNto/SimoneABNto/master/assets/python.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/SimoneABNto/SimoneABNto/master/assets/c.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/SimoneABNto/SimoneABNto/master/assets/django.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/SimoneABNto/SimoneABNto/master/assets/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/SimoneABNto/SimoneABNto/master/assets/nodejs.png" />
